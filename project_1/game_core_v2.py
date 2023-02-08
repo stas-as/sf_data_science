@@ -16,7 +16,6 @@ def random_predict(number: int = 1) -> int:
         int: Число попыток
     """
     count = 0
-    no_predict_number = None
     min_number = 1
     max_number = 101
     while True:

@@ -2,16 +2,17 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[2. Какой кейс решаем?](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](.https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#этапы-работы-над-проектом)  
+[5. Результат](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#результаты)    
+[6. Выводы](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#выводы) 
 
 ### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+Проект "Игра угадай число". Функция загадывает число и должна сама его отгадать меньше чем за 20 попыток . Во избежания разных результатов будет выведенно среднее количество попыток за 1000 запусков функции.
+
+:arrow_up:[к оглавлению](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#описание-проекта)
 
 
 ### Какой кейс решаем?    
@@ -29,27 +30,35 @@
 
 
 ### Краткая информация о данных
-....
+Заггаданное число по умолчанию 1.
+Диапазон чисел от 1 до 100 записываем в переменные.
+счетчик также обьевляем до цикла
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#описание-проекта)
 
 
 ### Этапы работы над проектом  
-....
+1. ### Анализ.
+   - За основу взята функция [game_v2](https://github.com/stas-as/sf_data_science/blob/main/project_1/game_v2.py) .
+   - Функция выводила среднее кол.во попыток угадать число за 1000 запусков функции.
+   - Так как это число было в районе 99 раз нужно было усовершенствовать алгаритм поиска числа. 
+2. ### Работа.
+   - Функция score_game по подсчету количества попыток за 1000 запусков нас устраивала мы ее не трогаем.
+   - функция 
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#описание-проекта)
 
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#описание-проекта)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#описание-проекта)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
