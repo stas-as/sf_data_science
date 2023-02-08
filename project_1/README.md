@@ -4,7 +4,7 @@
 [1. Описание проекта](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#этапы-работы-над-проектом)  
+[4. Этапы работы над проектом](https://github.com/stas-as/sf_data_science/tree/main/project_1#этапы-работы-над-проектом)  
 [5. Результат](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#результаты)    
 [6. Выводы](https://github.com/stas-as/sf_data_science/blob/main/project_1/README.md#выводы) 
 
